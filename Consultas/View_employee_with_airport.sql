@@ -1,0 +1,2 @@
+SELECT id_employee, Airport_id_airport
+FROM EMPLOYEE

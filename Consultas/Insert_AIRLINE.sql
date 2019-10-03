@@ -1,0 +1,2 @@
+INSERT INTO AIRLINE
+VALUES (3,'Airline_3');
